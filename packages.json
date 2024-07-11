@@ -60,10 +60,6 @@
     "url": "https://github.com/insightsengineering/ggplot2.utils"
   },
   {
-    "package": "ggtips",
-    "url": "https://github.com/Roche/ggtips"
-  },
-  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk"
   },
@@ -164,10 +160,6 @@
     "url": "https://github.com/insightsengineering/scda.2022"
   },
   {
-    "package": "scda.test",
-    "url": "https://github.com/insightsengineering/scda.test"
-  },
-  {
     "package": "sdtmchecks",
     "url": "https://github.com/pharmaverse/sdtmchecks"
   },
@@ -182,10 +174,6 @@
   {
     "package": "staged.dependencies",
     "url": "https://github.com/openpharma/staged.dependencies"
-  },
-  {
-    "package": "synthetic.cdisc.data",
-    "url": "https://github.com/Roche/synthetic.cdisc.data"
   },
   {
     "package": "syntrial",
@@ -310,5 +298,25 @@
   {
     "package": "pharmaversesdtm",
     "url": "https://github.com/pharmaverse/pharmaversesdtm"
+  },
+  {
+    "package": "cards",
+    "url": "https://github.com/insightsengineering/cards"
+  },
+  {
+    "package": "cardx",
+    "url": "https://github.com/insightsengineering/cardx"
+  },
+  {
+    "package": "chevron",
+    "url": "https://github.com/insightsengineering/chevron"
+  },
+  {
+    "package": "dunlin",
+    "url": "https://github.com/insightsengineering/dunlin"
+  },
+  {
+    "package": "random.cdisc.data",
+    "url": "https://github.com/insightsengineering/random.cdisc.data"
   }
 ]
