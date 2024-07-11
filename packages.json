@@ -252,10 +252,6 @@
     "url": "https://github.com/atorus-research/Tplyr"
   },
   {
-    "package": "uniCATE",
-    "url": "https://github.com/insightsengineering/uniCATE"
-  },
-  {
     "package": "visR",
     "url": "https://github.com/openpharma/visR"
   },
