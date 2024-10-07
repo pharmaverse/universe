@@ -310,5 +310,9 @@
   {
     "package": "random.cdisc.data",
     "url": "https://github.com/insightsengineering/random.cdisc.data"
+  },
+  {
+    "package": "roxy.shinylive",
+    "url": "https://github.com/insightsengineering/roxy.shinylive"
   }
 ]
