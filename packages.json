@@ -292,6 +292,10 @@
     "url": "https://github.com/pharmaverse/pharmaversesdtm"
   },
   {
+    "package": "pharmaverseadam",
+    "url": "https://github.com/pharmaverse/pharmaverseadam"
+  },
+  {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards"
   },
@@ -314,5 +318,13 @@
   {
     "package": "roxy.shinylive",
     "url": "https://github.com/insightsengineering/roxy.shinylive"
+  },
+  {
+    "package": "rtables.officer",
+    "url": "https://github.com/insightsengineering/rtables.officer"
+  },
+  {
+    "package": "autoslider.core",
+    "url": "https://github.com/insightsengineering/autoslider.core"
   }
 ]
